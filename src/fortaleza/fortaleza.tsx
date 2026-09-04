@@ -9,17 +9,19 @@ import {
 } from "../utils/neighborhood_polyline.tsx";
 
 import { useState } from "react";
-import type { WeatherData } from "@/utils/inferfaces.ts";
+import type { WeatherData } from "@/utils/interfaces.ts";
+
 import { WeatherStatusCard } from "@/components/weather_status_card.tsx";
 
 const FORTALPOSITION: LatLngExpression = [-3.795, -38.5266];
 
 export const Fortaleza = () => {
   const [response, setResponse] = useState<WeatherData | null>(null);
-
   return (
-    <div id="fortaleza" className="min-h-screen grid place-items-center">
-      <WeatherStatusCard weather={response} />
+    <div
+      id="fortaleza"
+      className="min-h-screen flex items-center justify-center gap-4"
+    >
       <MapContainer
         center={FORTALPOSITION}
         zoom={12}
@@ -50,6 +52,7 @@ export const Fortaleza = () => {
 
         <ClickableNeighborhoodPolygon setResponse={setResponse} />
       </MapContainer>
+      <WeatherStatusCard weather={response} />
     </div>
   );
 };
