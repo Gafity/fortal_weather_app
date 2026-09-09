@@ -1,6 +1,6 @@
 import { weatherConsult } from "@/request";
 
-export async function searchNeighorhoodWeather(nameNeighborhood: string) {
+export async function searchNeighborhoodWeather(nameNeighborhood: string) {
   switch (nameNeighborhood) {
     case "Messejana":
       const coordinates: Record<string, string> = {
