@@ -1,0 +1,48 @@
+.weather-card-content {
+  position: relative;
+  overflow: hidden;
+}
+
+.weather-card-content::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  opacity: 0.4;
+  background: url("../src/cloud.svg");
+  background-size: 256px;
+  background-position: 0 0; /* Inicia no canto superior esquerdo */
+  transform: scale(1.35);
+  animation: slide 30s linear infinite;
+  pointer-events: none;
+}
+
+.weather-card-content::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  opacity: 0.3;
+  background: url("../src/cloud.svg");
+  background-size: 200px; /* Nuvens médias */
+  background-position: 100px 50px; /* Posição inicial diferente */
+  animation: slide 20s linear infinite reverse; /* Velocidade e direção diferentes */
+  pointer-events: none;
+}
+@keyframes slide2 {
+  from {
+    background-position: 100px 50px;
+  }
+  to {
+    background-position: 356px 274px;
+  }
+}
+/* Movimento da esquerda para direita, de cima para baixo */
+@keyframes slide {
+  from {
+    background-position: 256px 256px; /* Início: canto superior esquerdo */
+  }
+  to {
+    background-position: 500px 256px; /* Fim: deslocado diagonalmente */
+  }
+}
