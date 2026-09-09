@@ -1,6 +1,7 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import "../index.css";
 import { Button } from "../components/buttons";
+
 export const Home = () => {
   return (
     <div className="container  mx-auto p-8 text-center relative z-10  w-auto max-w-full ">
