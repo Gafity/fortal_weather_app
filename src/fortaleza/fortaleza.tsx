@@ -11,7 +11,7 @@ import {
 import { useState } from "react";
 import type { WeatherData } from "@/utils/interfaces.ts";
 
-import { WeatherStatusCard } from "@/components/weather_status_card.tsx";
+import { WeatherStatusCard } from "@/components/weather-status-card.tsx";
 
 const FORTALPOSITION: LatLngExpression = [-3.795, -38.5266];
 
