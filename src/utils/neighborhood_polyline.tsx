@@ -1,8 +1,8 @@
 import { LayerGroup, Polygon, Polyline } from "react-leaflet";
 import neighbordhoodCoordinates from "../../scripts/fortaleza_scripts/neighborhoodCoordinates2.json";
 import type { Dispatch, SetStateAction } from "react";
-import { searchNeighorhoodWeather } from "./request";
-import type { WeatherData } from "./inferfaces.ts";
+import { searchNeighborhoodWeather } from "./request";
+import type { WeatherData } from "./interfaces";
 
 export function NeighborhoodPolyline() {
   return (
@@ -38,7 +38,7 @@ export function ClickableNeighborhoodPolygon({
               positions={listCoordinates as any}
               eventHandlers={{
                 click: async () => {
-                  const promise = await searchNeighorhoodWeather(neighborhood);
+                  const promise = await searchNeighborhoodWeather(neighborhood);
                   if (promise) {
                     setResponse(promise);
                   }
