@@ -1,13 +1,17 @@
-import { apiUrl } from "./utils/settins";
-import type { WeatherApiResponse, WeatherData } from "./utils/inferfaces";
+import { apiUrl } from "./settins-api";
+import type { WeatherApiResponse, WeatherData } from "./interfaces";
 
 export async function weatherConsult(
   coordinates: Record<string, string>,
 ): Promise<WeatherData> {
   try {
-    const queryString = new URLSearchParams(coordinates).toString();
+    const coordinatesToQueryString = new URLSearchParams(
+      coordinates,
+    ).toString();
 
-    const response = await fetch(apiUrl + `/weather/fortal/?${queryString}`);
+    const response = await fetch(
+      apiUrl + `/weather/fortal/?${coordinatesToQueryString}`,
+    );
 
     const weatherResponsePromise: WeatherApiResponse = await response.json();
 

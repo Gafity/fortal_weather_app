@@ -9,7 +9,7 @@
   inset: 0;
   z-index: 0;
   opacity: 0.4;
-  background: url("../src/cloud.svg");
+  background: url("../public/imag/cloud.svg");
   background-size: 256px;
   background-position: 0 0; /* Inicia no canto superior esquerdo */
   transform: scale(1.35);
@@ -23,7 +23,7 @@
   inset: 0;
   z-index: 0;
   opacity: 0.3;
-  background: url("../src/cloud.svg");
+  background: url("../public/imag/cloud.svg");
   background-size: 200px; /* Nuvens médias */
   background-position: 100px 50px; /* Posição inicial diferente */
   animation: slide 20s linear infinite reverse; /* Velocidade e direção diferentes */

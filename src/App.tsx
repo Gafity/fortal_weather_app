@@ -1,13 +1,11 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { Home } from "./home/home";
-import { Fortaleza } from "./fortaleza/fortaleza";
+import { Fortaleza } from "./fortaleza-neighborhood/neighborhood";
 
 export function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/weather" element={<Home />} />
-        <Route path="/fortaleza" element={<Fortaleza />} />
+        <Route path="/" element={<Fortaleza />} />
       </Routes>
     </BrowserRouter>
   );

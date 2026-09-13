@@ -1,5 +1,5 @@
 import { Button as ButtonUI } from "./ui/button";
-import { weatherConsult } from "../request";
+import { weatherConsult } from "../utils/request-weather-api";
 
 export function Button({
   message,

@@ -1,41 +1,24 @@
-import { LayerGroup, Polygon, Polyline } from "react-leaflet";
+import type { WeatherData } from "../utils/interfaces";
 import neighbordhoodCoordinates from "../../scripts/fortaleza_scripts/neighborhoodCoordinates2.json";
 import type { Dispatch, SetStateAction } from "react";
-import { searchNeighborhoodWeather } from "./request";
-import type { WeatherData } from "./interfaces";
+import { LayerGroup, Polygon } from "react-leaflet";
+import { searchNeighborhoodWeather } from "@/utils/search-neighborhood-weather-consult";
 
-export function NeighborhoodPolyline() {
-  return (
-    <LayerGroup>
-      {Object.entries(neighbordhoodCoordinates).flatMap(
-        ([neighborhood, coordinates], idx) => {
-          return (
-            <Polyline
-              key={`${neighborhood}-${idx}`}
-              positions={coordinates as any}
-            />
-          );
-        },
-      )}
-    </LayerGroup>
-  );
-}
-
-export function ClickableNeighborhoodPolygon({
-  setResponse,
+export function NeighborhoodButton({
+  click: setResponse,
 }: {
-  setResponse: Dispatch<SetStateAction<WeatherData | null>>;
+  click: Dispatch<SetStateAction<WeatherData | null>>;
 }) {
   return (
     <LayerGroup>
       {Object.entries(neighbordhoodCoordinates).flatMap(
         ([neighborhood, coordinates], idx) => {
-          const listCoordinates = coordinates.flat(1);
+          const neighborhoodCoordinates = coordinates.flat(1);
           return (
             <Polygon
               key={`${neighborhood}-${idx}`}
               pathOptions={{ fillOpacity: 0, color: "transparent" }}
-              positions={listCoordinates as any}
+              positions={neighborhoodCoordinates as any}
               eventHandlers={{
                 click: async () => {
                   const promise = await searchNeighborhoodWeather(neighborhood);

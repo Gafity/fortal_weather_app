@@ -1,4 +1,4 @@
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardTitle } from "@/components/ui/card";
 import { Label } from "./ui/label";
 import type { WeatherData } from "../utils/interfaces.ts";
 import "../../styles/card_weather.css";

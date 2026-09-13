@@ -1,13 +1,13 @@
-import { weatherConsult } from "@/request";
+import { weatherConsult as NeighborhoodWeatherConsult } from "@/utils/request-weather-api";
 
 export async function searchNeighborhoodWeather(nameNeighborhood: string) {
   switch (nameNeighborhood) {
     case "Messejana":
-      const coordinates: Record<string, string> = {
+      const coordinates: { [coordinates: string]: string } = {
         latitude: "-3.738639",
         longitude: "-38.535288",
       };
-      return await weatherConsult(coordinates);
+      return await NeighborhoodWeatherConsult(coordinates);
 
     default:
       console.log("No option selected");
