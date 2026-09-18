@@ -1,3 +1,6 @@
+// nomes do arquivo não está bom
+// pesquisar o que é interface no ts
+//
 export interface WeatherApiResponse {
   latitude: number;
   longitude: number;

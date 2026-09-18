@@ -1,3 +1,5 @@
+// pensar em nome melhor para checkAPI
+//
 const checkAPI = () => {
   const apiUrl = process.env.BUN_PUBLIC_API_URL;
   if (!apiUrl) {
