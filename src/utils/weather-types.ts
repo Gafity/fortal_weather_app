@@ -1,6 +1,5 @@
-// nomes do arquivo não está bom
-// pesquisar o que é interface no ts
-//
+import type { Dispatch, SetStateAction } from "react";
+
 export interface WeatherApiResponse {
   latitude: number;
   longitude: number;
@@ -19,3 +18,8 @@ export interface WeatherData {
   humidity: number;
   wind: number;
 }
+
+export type NeighborhoodPolygonButtonProps = {
+  click: Dispatch<SetStateAction<WeatherData | null>>;
+  setNeighborhoodName: Dispatch<SetStateAction<any>>; // ajuste o tipo
+};
