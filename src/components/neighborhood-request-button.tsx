@@ -1,14 +1,20 @@
-import type { WeatherData } from "../utils/interfaces";
-import neighbordhoodCoordinates from "../../scripts/fortaleza_scripts/neighborhoodCoordinates2.json";
-import type { Dispatch, SetStateAction } from "react";
-import { LayerGroup, Polygon } from "react-leaflet";
-import { searchNeighborhoodWeather } from "@/utils/search-neighborhood-weather-consult";
+import { Popup } from "./popup";
 
-export function NeighborhoodButton({
+import neighbordhoodCoordinates from "../../scripts/fortaleza_scripts/neighborhoodCoordinates2.json";
+import { LayerGroup, Polygon } from "react-leaflet";
+import type { NeighborhoodPolygonButtonProps } from "../utils/weather-types";
+
+import { getWeatherNeighborhood } from "@/utils/search-neighborhood-weather-consult";
+import { useState } from "react";
+
+export function NeighborhoodPolygonButton({
   click: setResponse,
-}: {
-  click: Dispatch<SetStateAction<WeatherData | null>>;
-}) {
+  setNeighborhoodName: setNeighborhoodName,
+}: NeighborhoodPolygonButtonProps) {
+  const [hoveredNeighborhood, setHoveredNeighborhood] = useState<any | null>(
+    null,
+  );
+
   return (
     <LayerGroup>
       {Object.entries(neighbordhoodCoordinates).flatMap(
@@ -21,17 +27,30 @@ export function NeighborhoodButton({
               positions={neighborhoodCoordinates as any}
               eventHandlers={{
                 click: async () => {
-                  const promise = await searchNeighborhoodWeather(neighborhood);
+                  const promise = await getWeatherNeighborhood(neighborhood);
+
                   if (promise) {
                     setResponse(promise);
+                    setNeighborhoodName(neighborhood);
                   }
                   console.log(neighborhood);
+                },
+                mouseover: () => {
+                  setHoveredNeighborhood(<Popup neighborhood={neighborhood} />);
+                },
+
+                mouseout: () => {
+                  const currentNeighboorhood: string = neighborhood;
+                  if (currentNeighboorhood != neighborhood) {
+                    return setHoveredNeighborhood(null);
+                  }
                 },
               }}
             />
           );
         },
       )}
+      {hoveredNeighborhood}
     </LayerGroup>
   );
 }
