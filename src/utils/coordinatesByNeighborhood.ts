@@ -32,11 +32,22 @@ const COORDINATESBYNEIGHBORHOOD: { [key: string]: LatLngExpression } = {
   Cidade_2000: [-3.7511672020730735, -38.47205985158027],
   Vicente_Pinzón: [-3.72898165192108, -38.469735918522055],
   Cais_do_Porto: [-3.7150393016804832, -38.47062173993952],
+  Mucuripe: [-3.726581541940007, -38.484967141134156],
+  Varjota: [-3.7332082575242302, -38.486522694297854],
+  Meireles: [-3.727960506780102, -38.502246625253235],
+  Aldeota: [-3.737411741638281, -38.50454782570417],
+  Joaquim_Távora: [-3.7453718678247774, -38.51598081892502],
+  Dionísio_Torres: [-3.7478783970508682, -38.50286478716361],
+  São_João_do_Tauape: [-3.756854952350891, -38.506135534718304],
+  Guararapes: [-3.763035490474252, -38.48774492717457],
+  Salinas: [-3.764932185375404, -38.500405931285066],
+  Alto_da_Balança: [-3.765539357333539, -38.5131537794918],
+  Aerolândia: [-3.774408457217579, -38.51487238265546],
 };
 
 const FORTALPOSITION: LatLngExpression = [-3.795, -38.5266];
 
-export function coordinatesByNeighborhood(
+export function getNeighborhoodCoordinates(
   neighborhood: string,
 ): LatLngExpression {
   neighborhood = neighborhood.replaceAll(" ", "_");

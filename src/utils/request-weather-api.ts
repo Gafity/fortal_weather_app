@@ -1,7 +1,7 @@
-import { apiUrl } from "./settins-api";
-import type { WeatherApiResponse, WeatherData } from "./interfaces";
+import { apiUrl } from "./check-api";
+import type { WeatherApiResponse, WeatherData } from "./weather-types";
 
-export async function weatherConsult(
+export async function consultNeighborhoodWeather(
   coordinates: Record<string, string>,
 ): Promise<WeatherData> {
   try {
