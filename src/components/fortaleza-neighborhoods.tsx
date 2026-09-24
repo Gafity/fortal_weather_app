@@ -1,16 +1,14 @@
 import { MapContainer, TileLayer } from "react-leaflet";
-import type { LatLngExpression } from "leaflet";
 import "leaflet/dist/leaflet.css";
 import { NeighborhoodPolylinesLayer } from "./neighborhood-polylines-layer.tsx";
 import { NeighborhoodPolygonButton } from "@/components/neighborhood-request-button.tsx";
 import "../../styles/index.css";
+import { FORTAL_CENTER_POSITION } from "@/utils/coordinatesByNeighborhood.ts";
 
 import { useState } from "react";
 import type { WeatherData } from "@/utils/weather-types.ts";
 
 import { WeatherStatusCard } from "@/components/weather-status-card.tsx";
-
-const FORTAL_CENTER_POSITION: LatLngExpression = [-3.795, -38.5266];
 
 export const FortalezaNeighborhoods = () => {
   const [weatherDataResponse, setWeatherDataResponse] =
