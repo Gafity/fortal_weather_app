@@ -1,7 +1,7 @@
 import { MapContainer, TileLayer } from "react-leaflet";
 import type { LatLngExpression } from "leaflet";
 import "leaflet/dist/leaflet.css";
-import { NeighborhoodPolyline } from "../components/neighborhood-polyline.tsx";
+import { NeighborhoodPolylinesLayer } from "./neighborhood-polylines-layer.tsx";
 import { NeighborhoodPolygonButton } from "@/components/neighborhood-request-button.tsx";
 import "../../styles/index.css";
 
@@ -10,19 +10,20 @@ import type { WeatherData } from "@/utils/weather-types.ts";
 
 import { WeatherStatusCard } from "@/components/weather-status-card.tsx";
 
-const FORTALPOSITION: LatLngExpression = [-3.795, -38.5266];
+const FORTAL_CENTER_POSITION: LatLngExpression = [-3.795, -38.5266];
 
-export const FortalezaNeighborhood = () => {
+export const FortalezaNeighborhoods = () => {
   const [weatherDataResponse, setWeatherDataResponse] =
     useState<WeatherData | null>(null);
-  const [neighborhoodName, setNeighborhoodName] = useState<string>();
+  const [neighborhoodName, setNeighborhoodName] = useState<string>("");
+
   return (
     <div
       id="fortaleza"
       className="min-h-screen flex items-center justify-center gap-4"
     >
       <MapContainer
-        center={FORTALPOSITION}
+        center={FORTAL_CENTER_POSITION}
         zoom={12}
         scrollWheelZoom={true}
         style={{ height: 610, width: 800 }}
@@ -33,7 +34,7 @@ export const FortalezaNeighborhood = () => {
           url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}"
         />
 
-        <NeighborhoodPolyline />
+        <NeighborhoodPolylinesLayer />
 
         <NeighborhoodPolygonButton
           click={setWeatherDataResponse}

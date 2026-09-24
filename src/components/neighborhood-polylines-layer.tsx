@@ -1,7 +1,7 @@
 import { LayerGroup, Polyline } from "react-leaflet";
 import neighbordhoodCoordinates from "../../scripts/fortaleza_scripts/neighborhoodCoordinates2.json";
 
-export function NeighborhoodPolyline() {
+export function NeighborhoodPolylinesLayer() {
   return (
     <LayerGroup>
       {Object.entries(neighbordhoodCoordinates).flatMap(
