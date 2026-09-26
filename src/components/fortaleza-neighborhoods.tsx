@@ -1,7 +1,8 @@
-import { MapContainer, TileLayer } from "react-leaflet";
+import { LayerGroup, MapContainer, TileLayer } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { NeighborhoodPolylinesLayer } from "./neighborhood-polylines-layer.tsx";
-import { NeighborhoodPolygonButton } from "@/components/neighborhood-request-button.tsx";
+
+import { PolygonButtom } from "./pollygon-buttom";
 import "../../styles/index.css";
 import { FORTAL_CENTER_POSITION } from "@/utils/coordinatesByNeighborhood.ts";
 
@@ -23,8 +24,14 @@ export const FortalezaNeighborhoods = () => {
       <MapContainer
         center={FORTAL_CENTER_POSITION}
         zoom={12}
-        scrollWheelZoom={true}
+        dragging={false}
         style={{ height: 610, width: 800 }}
+        touchZoom={false}
+        scrollWheelZoom={false}
+        doubleClickZoom={false}
+        boxZoom={false}
+        keyboard={false}
+        zoomControl={false}
         className="relative p-8 z-10 items-center justify-center"
       >
         <TileLayer
@@ -34,10 +41,12 @@ export const FortalezaNeighborhoods = () => {
 
         <NeighborhoodPolylinesLayer />
 
-        <NeighborhoodPolygonButton
-          click={setWeatherDataResponse}
-          setNeighborhoodName={setNeighborhoodName}
-        />
+        <LayerGroup>
+          <PolygonButtom
+            setResponse={setWeatherDataResponse}
+            setNeighborhoodName={setNeighborhoodName}
+          />
+        </LayerGroup>
       </MapContainer>
       <WeatherStatusCard
         weather={weatherDataResponse}

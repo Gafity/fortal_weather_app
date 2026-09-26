@@ -1,0 +1,1946 @@
+{
+  "elements": [
+    {
+      "type": "relation",
+      "id": 5522084,
+      "center": {
+        "lat": -3.7761289,
+        "lon": -38.5135341
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Aerolândia",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522085,
+      "center": {
+        "lat": -3.7709379,
+        "lon": -38.5327276
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Aeroporto",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522086,
+      "center": {
+        "lat": -3.7374812,
+        "lon": -38.5024229
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Aldeota",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522087,
+      "center": {
+        "lat": -3.7650501,
+        "lon": -38.5125702
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Alto da Balança",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522088,
+      "center": {
+        "lat": -3.7447424,
+        "lon": -38.5592082
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Amadeu Furtado",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522089,
+      "center": {
+        "lat": -3.8638071,
+        "lon": -38.5079336
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Ancuri",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522090,
+      "center": {
+        "lat": -3.7401637,
+        "lon": -38.592647
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Antônio Bezerra",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522091,
+      "center": {
+        "lat": -3.7540751,
+        "lon": -38.5954384
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Autran Nunes",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522092,
+      "center": {
+        "lat": -3.7038765,
+        "lon": -38.5804928
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Barra do Ceará",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522093,
+      "center": {
+        "lat": -3.8211341,
+        "lon": -38.5151126
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Barroso",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522094,
+      "center": {
+        "lat": -3.752032,
+        "lon": -38.5603448
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Bela Vista",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522095,
+      "center": {
+        "lat": -3.7418177,
+        "lon": -38.5386057
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Benfica",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522096,
+      "center": {
+        "lat": -3.799303,
+        "lon": -38.5222369
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Boa Vista/Castelão",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522097,
+      "center": {
+        "lat": -3.757911,
+        "lon": -38.5463293
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Bom Futuro",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522098,
+      "center": {
+        "lat": -3.7956435,
+        "lon": -38.6016331
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Bom Jardim",
+        "place": "suburb",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522099,
+      "center": {
+        "lat": -3.782848,
+        "lon": -38.5862436
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Bonsucesso",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522100,
+      "center": {
+        "lat": -3.7120334,
+        "lon": -38.471533
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Cais do Porto",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522101,
+      "center": {
+        "lat": -3.8004394,
+        "lon": -38.5067376
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Cajazeiras",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522102,
+      "center": {
+        "lat": -3.8067565,
+        "lon": -38.4865371
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Cambeba",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522103,
+      "center": {
+        "lat": -3.8108482,
+        "lon": -38.6037824
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Canindezinho",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522104,
+      "center": {
+        "lat": -3.7170577,
+        "lon": -38.5539471
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Carlito Pamplona",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522105,
+      "center": {
+        "lat": -3.7275191,
+        "lon": -38.5271806
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Centro",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522106,
+      "center": {
+        "lat": -3.7511526,
+        "lon": -38.4718989
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Cidade 2000",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522107,
+      "center": {
+        "lat": -3.7942102,
+        "lon": -38.4996513
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Cidade dos Funcionários",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522108,
+      "center": {
+        "lat": -3.8450776,
+        "lon": -38.4772177
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Coaçu",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522110,
+      "center": {
+        "lat": -3.7641351,
+        "lon": -38.6057126
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Conjunto Ceará I",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522111,
+      "center": {
+        "lat": -3.770157,
+        "lon": -38.6094454
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Conjunto Ceará II",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522112,
+      "center": {
+        "lat": -3.8144323,
+        "lon": -38.5911659
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Conjunto Esperança",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522113,
+      "center": {
+        "lat": -3.8485216,
+        "lon": -38.5299535
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Conjunto Palmeiras",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522114,
+      "center": {
+        "lat": -3.7603113,
+        "lon": -38.5602808
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Couto Fernandes",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522115,
+      "center": {
+        "lat": -3.7059576,
+        "lon": -38.5647912
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Cristo Redentor",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522116,
+      "center": {
+        "lat": -3.8227594,
+        "lon": -38.477492
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Curió",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522117,
+      "center": {
+        "lat": -3.7520823,
+        "lon": -38.5485659
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Damas",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522118,
+      "center": {
+        "lat": -3.740814,
+        "lon": -38.462558
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "De Lourdes",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522119,
+      "center": {
+        "lat": -3.7618725,
+        "lon": -38.5653422
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Demócrito Rocha",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522120,
+      "center": {
+        "lat": -3.7987047,
+        "lon": -38.5565886
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Rachel de Queiroz",
+        "note": "ALTERAÇÃO DE NOME DO BAIRRO (DE: DENDÊ PARA: RACHEL DE QUEIROZ) CONFORME DECRETO LEGISLATIVO Nº 1.089, DE 08 DE MARÇO DE 2023",
+        "old_name": "Dendê",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522121,
+      "center": {
+        "lat": -3.7884435,
+        "lon": -38.5222016
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Dias Macêdo",
+        "note": "Nome com acento, de acordo com leis municipais. Favor não alterar.",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522122,
+      "center": {
+        "lat": -3.7474966,
+        "lon": -38.5022367
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Dionísio Torres",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522123,
+      "center": {
+        "lat": -3.7523108,
+        "lon": -38.588128
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Dom Lustosa",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522124,
+      "center": {
+        "lat": -3.7759265,
+        "lon": -38.4607892
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Edson Queiroz",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522125,
+      "center": {
+        "lat": -3.7765561,
+        "lon": -38.491326
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Engenheiro Luciano Cavalcante",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522126,
+      "center": {
+        "lat": -3.7324372,
+        "lon": -38.5426207
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Farias Brito",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522127,
+      "center": {
+        "lat": -3.7203629,
+        "lon": -38.5754111
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Floresta",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522128,
+      "center": {
+        "lat": -3.7513384,
+        "lon": -38.5283924
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Fátima",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522129,
+      "center": {
+        "lat": -3.7575905,
+        "lon": -38.6028887
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Genibaú",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522130,
+      "center": {
+        "lat": -3.7872146,
+        "lon": -38.6206743
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Granja Lisboa",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522131,
+      "center": {
+        "lat": -3.7815536,
+        "lon": -38.6000109
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Granja Portugal",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522132,
+      "center": {
+        "lat": -3.8323677,
+        "lon": -38.4796039
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Guajeru",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522133,
+      "center": {
+        "lat": -3.7618401,
+        "lon": -38.5864759
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Henrique Jorge",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522134,
+      "center": {
+        "lat": -3.7725938,
+        "lon": -38.5563594
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Itaoca",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522135,
+      "center": {
+        "lat": -3.7885768,
+        "lon": -38.5491317
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Itaperi",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522136,
+      "center": {
+        "lat": -3.7197886,
+        "lon": -38.5453681
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jacarecanga",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522137,
+      "center": {
+        "lat": -3.8463111,
+        "lon": -38.5154036
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jangurussu",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522138,
+      "center": {
+        "lat": -3.7525658,
+        "lon": -38.5420321
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jardim América",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522139,
+      "center": {
+        "lat": -3.8007528,
+        "lon": -38.5661244
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jardim Cearense",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522140,
+      "center": {
+        "lat": -3.7240046,
+        "lon": -38.5902697
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jardim Guanabara",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522141,
+      "center": {
+        "lat": -3.7230889,
+        "lon": -38.583624
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jardim Iracema",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522142,
+      "center": {
+        "lat": -3.7804037,
+        "lon": -38.5033419
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jardim das Oliveiras",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522143,
+      "center": {
+        "lat": -3.7700374,
+        "lon": -38.5873444
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "João XXIII",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522144,
+      "center": {
+        "lat": -3.7452221,
+        "lon": -38.5163897
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Joaquim Távora",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522145,
+      "center": {
+        "lat": -3.7389032,
+        "lon": -38.528486
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "José Bonifácio",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522146,
+      "center": {
+        "lat": -3.8105861,
+        "lon": -38.472464
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "José de Alencar",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522147,
+      "center": {
+        "lat": -3.7674032,
+        "lon": -38.5742568
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Jóquei Clube",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522148,
+      "center": {
+        "lat": -3.8255062,
+        "lon": -38.4607539
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Lagoa Redonda",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522149,
+      "center": {
+        "lat": -3.7977945,
+        "lon": -38.5814039
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Manoel Sátiro",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522150,
+      "center": {
+        "lat": -3.7605744,
+        "lon": -38.4576436
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Manuel Dias Branco",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522151,
+      "center": {
+        "lat": -3.7967354,
+        "lon": -38.5682077
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Maraponga",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522152,
+      "center": {
+        "lat": -3.7273199,
+        "lon": -38.5012369
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Meireles",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522153,
+      "center": {
+        "lat": -3.8268364,
+        "lon": -38.4930904
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Messejana",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522154,
+      "center": {
+        "lat": -3.81721,
+        "lon": -38.5709136
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Mondubim",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522155,
+      "center": {
+        "lat": -3.7248874,
+        "lon": -38.55341
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Monte Castelo",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522156,
+      "center": {
+        "lat": -3.7639604,
+        "lon": -38.5502659
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Montese",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522157,
+      "center": {
+        "lat": -3.7180766,
+        "lon": -38.5344879
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Moura Brasil",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522158,
+      "center": {
+        "lat": -3.7259939,
+        "lon": -38.4844497
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Mucuripe",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522159,
+      "center": {
+        "lat": -3.8080801,
+        "lon": -38.5850643
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Novo Mondubim",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522160,
+      "center": {
+        "lat": -3.7301467,
+        "lon": -38.5903602
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Olavo Oliveira",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522161,
+      "center": {
+        "lat": -3.7363911,
+        "lon": -38.5792758
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Padre Andrade",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522162,
+      "center": {
+        "lat": -3.755672,
+        "lon": -38.5646422
+      },
+      "tags": {
+        "admin_level": "10",
+        "alt_name": "Pan-Americano;Pan Americano",
+        "boundary": "administrative",
+        "name": "Panamericano",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522163,
+      "center": {
+        "lat": -3.7399779,
+        "lon": -38.4754907
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Papicu",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522164,
+      "center": {
+        "lat": -3.777746,
+        "lon": -38.5654536
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parangaba",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522165,
+      "center": {
+        "lat": -3.7352749,
+        "lon": -38.54827
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parque Araxá",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522166,
+      "center": {
+        "lat": -3.8064224,
+        "lon": -38.4962378
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parque Iracema",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522167,
+      "center": {
+        "lat": -3.791517,
+        "lon": -38.4861753
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parque Manibura",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522168,
+      "center": {
+        "lat": -3.8253877,
+        "lon": -38.5998413
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parque Presidente Vargas",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522169,
+      "center": {
+        "lat": -3.8497224,
+        "lon": -38.5004502
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parque Santa Maria",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522170,
+      "center": {
+        "lat": -3.82014,
+        "lon": -38.5945317
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parque Santa Rosa",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522171,
+      "center": {
+        "lat": -3.7966211,
+        "lon": -38.5874752
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parque Săo José",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522172,
+      "center": {
+        "lat": -3.8088049,
+        "lon": -38.547699
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parque Dois Irmăos",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522173,
+      "center": {
+        "lat": -3.7372716,
+        "lon": -38.5588155
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parquelândia",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522174,
+      "center": {
+        "lat": -3.7585541,
+        "lon": -38.5374147
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Parreão",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522175,
+      "center": {
+        "lat": -3.8123252,
+        "lon": -38.5303984
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Passaré",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522176,
+      "center": {
+        "lat": -3.7633528,
+        "lon": -38.4892495
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Guararapes",
+        "old_name": "Patriolino Ribeiro",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522177,
+      "center": {
+        "lat": -3.8622067,
+        "lon": -38.491149
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Paupina",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522178,
+      "center": {
+        "lat": -3.8796174,
+        "lon": -38.514881
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Pedras",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522179,
+      "center": {
+        "lat": -3.7488448,
+        "lon": -38.5748846
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Pici",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522180,
+      "center": {
+        "lat": -3.7093781,
+        "lon": -38.5529133
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Pirambu",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522181,
+      "center": {
+        "lat": -3.833125,
+        "lon": -38.5724848
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Planalto Ayrton Senna",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522182,
+      "center": {
+        "lat": -3.7187836,
+        "lon": -38.5154073
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Praia de Iracema",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522183,
+      "center": {
+        "lat": -3.7399943,
+        "lon": -38.4560042
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Praia do Futuro I",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522184,
+      "center": {
+        "lat": -3.7642536,
+        "lon": -38.4454535
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Praia do Futuro II",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522185,
+      "center": {
+        "lat": -3.8372144,
+        "lon": -38.546963
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Prefeito José Walter",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522186,
+      "center": {
+        "lat": -3.7291993,
+        "lon": -38.5706707
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Presidente Kennedy",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522187,
+      "center": {
+        "lat": -3.7305952,
+        "lon": -38.6050088
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Quintino Cunha",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522188,
+      "center": {
+        "lat": -3.7462019,
+        "lon": -38.5512767
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Rodolfo Teófilo",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522189,
+      "center": {
+        "lat": -3.8023972,
+        "lon": -38.4267307
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Sabiaguaba",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary",
+        "wikidata": "Q10366699",
+        "wikipedia": "sv:Sabiaguaba"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522190,
+      "center": {
+        "lat": -3.7639276,
+        "lon": -38.5002009
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Salinas",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522191,
+      "center": {
+        "lat": -3.79766,
+        "lon": -38.4659824
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Sapiranga / Coité",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522192,
+      "center": {
+        "lat": -3.7839591,
+        "lon": -38.5409275
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Serrinha",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522194,
+      "center": {
+        "lat": -3.8548313,
+        "lon": -38.4827104
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "São Bento",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522195,
+      "center": {
+        "lat": -3.7303013,
+        "lon": -38.5568166
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "São Gerardo",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522196,
+      "center": {
+        "lat": -3.7559922,
+        "lon": -38.5053882
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "São João do Tauape",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522197,
+      "center": {
+        "lat": -3.7344724,
+        "lon": -38.4853063
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Varjota",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522198,
+      "center": {
+        "lat": -3.7277081,
+        "lon": -38.4696242
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Vicente Pinzón",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522199,
+      "center": {
+        "lat": -3.7232782,
+        "lon": -38.5634563
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Ellery",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522200,
+      "center": {
+        "lat": -3.7885436,
+        "lon": -38.5808293
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Vila Peri",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522201,
+      "center": {
+        "lat": -3.7667771,
+        "lon": -38.5358827
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Vila Uniăo",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522202,
+      "center": {
+        "lat": -3.7134926,
+        "lon": -38.6048283
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Vila Velha",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5522203,
+      "center": {
+        "lat": -3.7159863,
+        "lon": -38.5666183
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Álvaro Weyne",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 7032930,
+      "center": {
+        "lat": -3.7511861,
+        "lon": -38.4803032
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Cocó",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 10122089,
+      "center": {
+        "lat": -3.8294943,
+        "lon": -38.5879961
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Aracapé",
+        "place": "suburb",
+        "source": "Portal de Dados Abertos de Fortaleza",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 10822863,
+      "center": {
+        "lat": -3.8073935,
+        "lon": -38.620159
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "Siqueira",
+        "source": "Fortaleza Dados Abertos",
+        "type": "boundary",
+        "wikipedia": "pt:Lista de bairros e divisões de Fortaleza"
+      }
+    }
+  ]
+}

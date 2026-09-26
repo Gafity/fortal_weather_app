@@ -20,6 +20,11 @@ export interface WeatherData {
 }
 
 export type NeighborhoodPolygonButtonProps = {
-  click: Dispatch<SetStateAction<WeatherData | null>>;
+  setResponse: Dispatch<SetStateAction<WeatherData | null>>;
   setNeighborhoodName: Dispatch<SetStateAction<any>>; // ajuste o tipo
+};
+
+export type PolygonNeighborhood = {
+  id: string;
+  coordinates: number[][][];
 };

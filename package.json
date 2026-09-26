@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "bun --watch public/index.html",
     "xml_to_json": "bun run scripts/fortaleza_scripts/xml_to_json.js",
+    "neighborhoodCenter": "bun run scripts/fortaleza_scripts/neiborhoodCenter.ts",
     "start": "NODE_ENV=production bun src/index.ts",
     "build": "bun run build.ts"
   },
